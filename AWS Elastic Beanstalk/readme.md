@@ -1,1 +1,2 @@
-to deploy Flask application in EB
+to deploy Flask application in EB, use app.zip file
+
